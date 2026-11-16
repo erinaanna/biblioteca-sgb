@@ -1,0 +1,6 @@
+*.log
+node_modules/
+config.local.json
+*.tmp
+temp/
+build/
